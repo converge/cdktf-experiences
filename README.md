@@ -6,5 +6,5 @@
 cdktf get
 go mod tidy
 cdktf deploy (up)
-cdktf estroy (down)
+cdktf destroy (down)
 ```
